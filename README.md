@@ -1,5 +1,5 @@
 # hello-world
-Introduction to me
+Introduction to Me
 
 Hello my friends, I love apple juice and cheese.
 
